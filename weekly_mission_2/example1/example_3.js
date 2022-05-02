@@ -8,7 +8,7 @@ const myObject3 = {
       "Tulish"
     ],
     address: {
-      zip_code: "10000",
+      zip_code: "100002",
       street: "Dr. Vertiz 11 Benito Juarez",
       city: "CDMX"
     }
@@ -17,4 +17,4 @@ const myObject3 = {
   console.log(myObject3)
   console.log(myObject3.nicknames)
   console.log(myObject3["address"])
-  
+     
