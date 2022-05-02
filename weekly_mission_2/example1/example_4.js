@@ -5,6 +5,7 @@ const pet = {
     sayHello: function(){
       // this.name hace referencia a la propiedad del objeto
       console.log(`${this.name} te saluda en español!`)
+      
     }
   }
   
