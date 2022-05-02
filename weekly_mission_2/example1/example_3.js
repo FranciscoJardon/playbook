@@ -15,6 +15,6 @@ const myObject3 = {
   }
   console.log("Ejemplo 3: Objeto con diferentes propiedades")
   console.log(myObject3)
-  console.log(myObject3.name)
+  console.log(myObject3.nicknames)
   console.log(myObject3["address"])
   
